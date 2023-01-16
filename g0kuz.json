@@ -1,0 +1,89 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"G0kuz Ultra Instinct",
+      "category":"Mods",
+      "image":"https://archive.org/download/348-sin-titulo-20220714124120/348_sin_titulo_20220714124120.png",
+      "download":"https://ia601505.us.archive.org/15/items/gokusupersayan_1/Goku%20Ultra%20Instinct.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"MUI G0kuz",
+      "category":"Mods",
+      "image":"https://archive.org/download/348-sin-titulo-20220714124120/Screenshot_1.jpg",
+      "download":"https://ia601505.us.archive.org/15/items/gokusupersayan_1/MUI_Goku.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"G0kuz UI",
+      "category":"Mods",
+      "image":"https://archive.org/download/348-sin-titulo-20220714124120/Screenshot_2.jpg",
+      "download":"https://ia601505.us.archive.org/15/items/gokusupersayan_1/goku_ui.zip",
+      "description":"file:///android_asset/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"G0kuzSaiyaz",
+    "category":"Mods",
+    "image":"https://archive.org/download/348-sin-titulo-20220714124120/Screenshot_2022-08-31-14-43-34-817_com.TwentySeven.MelonPlayground.jpg",
+    "download":"https://ia801505.us.archive.org/15/items/gokusupersayan_1/gokusupersayan_1.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"G0kuz Remake",
+    "category":"Other Mods",
+    "image":"https://archive.org/download/348-sin-titulo-20220714124120/Screenshot_3.jpg",
+    "download":"https://ia601507.us.archive.org/10/items/broly1_by_devil/goku_remake_by_devil.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Vegeata",
+    "category":"Other Mods",
+    "image":"https://archive.org/download/5_20220902_20220902_1404/vegeta.jpg",
+    "download":"https://ia601507.us.archive.org/10/items/broly1_by_devil/Vegeta_by_devil.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Broly",
+    "category":"Mods",
+    "image":"https://archive.org/download/5_20220902_20220902_1404/bro.jpg",
+    "download":"https://ia601507.us.archive.org/10/items/broly1_by_devil/broly1_by_devil.zip",
+    "description":"file:///android_asset/ueue.html"
+  }
+	 ]
+}

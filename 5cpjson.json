@@ -1,0 +1,177 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"SCP ModPack v1",
+      "category":"Mods",
+      "image":"https://archive.org/download/4_20220901_202209/1.jpg",
+      "download":"https://ia601505.us.archive.org/32/items/scpm-v-1.0/scp_modpack_v1_by_lazybone.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"SCP ModPack v2",
+      "category":"Mods",
+      "image":"https://ia801509.us.archive.org/32/items/4_20220901_202209/2.jpg",
+      "download":"https://ia801505.us.archive.org/32/items/scpm-v-1.0/Scp_modpack_v2_by_lazybone-1.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"SCP096",
+      "category":"Mods",
+      "image":"https://ia801509.us.archive.org/32/items/4_20220901_202209/3.png",
+      "download":"https://ia801505.us.archive.org/32/items/scpm-v-1.0/SCP096.zip",
+      "description":"file:///android_asset/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"SCP96 v2",
+    "category":"Mods",
+    "image":"https://ia601509.us.archive.org/32/items/4_20220901_202209/4.png",
+    "download":"https://ia601505.us.archive.org/32/items/scpm-v-1.0/SCP096_by_arara.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"SCPM",
+    "category":"Other Mods",
+    "image":"https://ia801509.us.archive.org/32/items/4_20220901_202209/5.jpg",
+    "download":"https://ia801505.us.archive.org/32/items/scpm-v-1.0/SCPM_v1.0.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"SCP Keycard",
+    "category":"Other Mods",
+    "image":"https://ia801509.us.archive.org/32/items/4_20220901_202209/6.jpg",
+    "download":"https://ia601505.us.archive.org/32/items/scpm-v-1.0/SCP_Keycards_By_Milk-1.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Baldi",
+    "category":"Other Mods",
+    "image":"https://ia601405.us.archive.org/27/items/7_20220901_20220901/7.jpg",
+    "download":"https://ia601404.us.archive.org/2/items/baldi-mod-v-1/Baldi_mod_V1.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":8,
+    "name":"Guard Card",
+    "category":"Mods",
+    "image":"https://archive.org/download/4_20220917_20220917_1509/1.jpg",
+    "download":"https://ia601500.us.archive.org/12/items/guard-s-card/GUARD%27S%20CARD.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":9,
+    "name":"PEOPLE",
+    "category":"Other Mods",
+    "image":"https://archive.org/download/4_20220917_20220917_1509/10.png",
+    "download":"https://ia601500.us.archive.org/12/items/guard-s-card/PEOPLE.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":10,
+    "name":"SCP 007",
+    "category":"Mods",
+    "image":"https://archive.org/download/4_20220917_20220917_1509/11.png",
+    "download":"https://ia601500.us.archive.org/12/items/guard-s-card/SCP%20-%20007.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":11,
+    "name":"SCP 017",
+    "category":"Mods",
+    "image":"https://archive.org/download/4_20220917_20220917_1509/2.png",
+    "download":"https://ia601500.us.archive.org/12/items/guard-s-card/SCP%20-%20017.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":12,
+    "name":"SCP 096",
+    "category":"Mods",
+    "image":"https://archive.org/download/4_20220917_20220917_1509/3.jpg",
+    "download":"https://ia601500.us.archive.org/12/items/guard-s-card/SCP%20-%20096.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":13,
+    "name":"SCP 131",
+    "category":"Mods",
+    "image":"https://archive.org/download/4_20220917_20220917_1509/4.png",
+    "download":"https://ia601500.us.archive.org/12/items/guard-s-card/SCP%20-%20131.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":14,
+    "name":"SCP 1471",
+    "category":"Mods",
+    "image":"https://archive.org/download/4_20220917_20220917_1509/5.png",
+    "download":"https://ia601500.us.archive.org/12/items/guard-s-card/SCP%20-%201471.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":15,
+    "name":"SCP 173",
+    "category":"Mods",
+    "image":"https://archive.org/download/4_20220917_20220917_1509/6.jpg",
+    "download":"https://ia601500.us.archive.org/12/items/guard-s-card/SCP%20-%20173.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":16,
+    "name":"SCP 294",
+    "category":"Mods",
+    "image":"https://archive.org/download/4_20220917_20220917_1509/7.jpg",
+    "download":"https://ia601500.us.archive.org/12/items/guard-s-card/SCP%20-%20294.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":17,
+    "name":"SCP 682",
+    "category":"Mods",
+    "image":"https://archive.org/download/4_20220917_20220917_1509/8.jpg",
+    "download":"https://ia601500.us.archive.org/12/items/guard-s-card/SCP%20-%20682.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":18,
+    "name":"SCP 999",
+    "category":"Mods",
+    "image":"https://archive.org/download/4_20220917_20220917_1509/9.jpg",
+    "download":"https://ia601500.us.archive.org/12/items/guard-s-card/SCP%20-%20999.zip",
+    "description":"file:///android_asset/ueue.html"
+  }
+	 ]
+}
