@@ -1,94 +1,293 @@
 {
-  "Ads": [
-    {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"IRON",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-      "backup_ads_banner":"qwert12345",
-      "backup_ads_intertitial":"qwert12345",
-      "backup_ads_natives":"qwert12345",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
-      "switch_banner_natives":"1",
-      "on_off_native_listview":"1",
-      "interval_intertitial": 2,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
-  ],"Categories":
-  [
-    {
-    "category":"Mods"
-  },{
-    "category":"Other Mods"
-  }
-  
-  ],
-  "Mods":
-  [
-    {
-      "id":1,
-      "name":"G0kuz Ultra Instinct",
-      "category":"Mods",
-      "image":"https://archive.org/download/348-sin-titulo-20220714124120/348_sin_titulo_20220714124120.png",
-      "download":"https://ia601505.us.archive.org/15/items/gokusupersayan_1/Goku%20Ultra%20Instinct.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-    {
-      "id":2,
-      "name":"MUI G0kuz",
-      "category":"Mods",
-      "image":"https://archive.org/download/348-sin-titulo-20220714124120/Screenshot_1.jpg",
-      "download":"https://ia601505.us.archive.org/15/items/gokusupersayan_1/MUI_Goku.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-    {
-      "id":3,
-      "name":"G0kuz UI",
-      "category":"Mods",
-      "image":"https://archive.org/download/348-sin-titulo-20220714124120/Screenshot_2.jpg",
-      "download":"https://ia601505.us.archive.org/15/items/gokusupersayan_1/goku_ui.zip",
-      "description":"file:///android_asset/ueue.html"
-   },
-   {
-    "id":4,
-    "name":"G0kuzSaiyaz",
-    "category":"Mods",
-    "image":"https://archive.org/download/348-sin-titulo-20220714124120/Screenshot_2022-08-31-14-43-34-817_com.TwentySeven.MelonPlayground.jpg",
-    "download":"https://ia801505.us.archive.org/15/items/gokusupersayan_1/gokusupersayan_1.zip",
-    "description":"file:///android_asset/ueue.html"
-  },
-  {
-    "id":5,
-    "name":"G0kuz Remake",
-    "category":"Other Mods",
-    "image":"https://archive.org/download/348-sin-titulo-20220714124120/Screenshot_3.jpg",
-    "download":"https://ia601507.us.archive.org/10/items/broly1_by_devil/goku_remake_by_devil.zip",
-    "description":"file:///android_asset/ueue.html"
-  },
-  {
-    "id":6,
-    "name":"Vegeata",
-    "category":"Other Mods",
-    "image":"https://archive.org/download/5_20220902_20220902_1404/vegeta.jpg",
-    "download":"https://ia601507.us.archive.org/10/items/broly1_by_devil/Vegeta_by_devil.zip",
-    "description":"file:///android_asset/ueue.html"
-  },
-  {
-    "id":7,
-    "name":"Broly",
-    "category":"Mods",
-    "image":"https://archive.org/download/5_20220902_20220902_1404/bro.jpg",
-    "download":"https://ia601507.us.archive.org/10/items/broly1_by_devil/broly1_by_devil.zip",
-    "description":"file:///android_asset/ueue.html"
-  }
-	 ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "IRON",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"backup_ads_banner": "qwert12345",
+			"backup_ads_intertitial": "qwert12345",
+			"backup_ads_natives": "qwert12345",
+			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+			"switch_banner_natives": "1",
+			"on_off_native_listview": "1",
+			"interval_intertitial": 2,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Categories": [
+		{
+			"category": "Mods"
+		},
+		{
+			"category": "Other Mods"
+		}
+	],
+	"Mods": [
+		{
+			"id": 1,
+			"name": "G0kuz Ultra Instinct",
+			"category": "Mods",
+			"image": "https://archive.org/download/348-sin-titulo-20220714124120/348_sin_titulo_20220714124120.png",
+			"download": "https://ia601505.us.archive.org/15/items/gokusupersayan_1/Goku%20Ultra%20Instinct.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 2,
+			"name": "MUI G0kuz",
+			"category": "Mods",
+			"image": "https://archive.org/download/348-sin-titulo-20220714124120/Screenshot_1.jpg",
+			"download": "https://ia601505.us.archive.org/15/items/gokusupersayan_1/MUI_Goku.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 3,
+			"name": "G0kuz UI",
+			"category": "Mods",
+			"image": "https://archive.org/download/348-sin-titulo-20220714124120/Screenshot_2.jpg",
+			"download": "https://ia601505.us.archive.org/15/items/gokusupersayan_1/goku_ui.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 4,
+			"name": "G0kuzSaiyaz",
+			"category": "Mods",
+			"image": "https://archive.org/download/348-sin-titulo-20220714124120/Screenshot_2022-08-31-14-43-34-817_com.TwentySeven.MelonPlayground.jpg",
+			"download": "https://ia801505.us.archive.org/15/items/gokusupersayan_1/gokusupersayan_1.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 5,
+			"name": "G0kuz Remake",
+			"category": "Other Mods",
+			"image": "https://archive.org/download/348-sin-titulo-20220714124120/Screenshot_3.jpg",
+			"download": "https://ia601507.us.archive.org/10/items/broly1_by_devil/goku_remake_by_devil.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 6,
+			"name": "Vegeata",
+			"category": "Other Mods",
+			"image": "https://archive.org/download/5_20220902_20220902_1404/vegeta.jpg",
+			"download": "https://ia601507.us.archive.org/10/items/broly1_by_devil/Vegeta_by_devil.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 7,
+			"name": "Broly",
+			"category": "Mods",
+			"image": "https://archive.org/download/5_20220902_20220902_1404/bro.jpg",
+			"download": "https://ia601507.us.archive.org/10/items/broly1_by_devil/broly1_by_devil.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 8,
+			"name": "God",
+			"category": "Mods",
+			"image": "https://archive.org/download/npcimg_202301/God.jpg",
+			"download": "https://ia804706.us.archive.org/17/items/npcmods/god.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 10,
+			"name": "Imperial",
+			"category": "Mods",
+			"image": "https://archive.org/download/npcimg_202301/Imperial.jpg",
+			"download": "https://ia804706.us.archive.org/17/items/npcmods/Imperial.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 11,
+			"name": "Lemon",
+			"category": "Mods",
+			"image": "https://archive.org/download/npcimg_202301/Lemon.jpg",
+			"download": "https://ia804706.us.archive.org/17/items/npcmods/Lemon.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 12,
+			"name": "Mafia",
+			"category": "Mods",
+			"image": "https://archive.org/download/npcimg_202301/Mafia.jpg",
+			"download": "https://ia904706.us.archive.org/17/items/npcmods/mafia.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 13,
+			"name": "Military",
+			"category": "Mods",
+			"image": "https://archive.org/download/npcimg_202301/Military.jpg",
+			"download": "https://ia904706.us.archive.org/17/items/npcmods/military.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 14,
+			"name": "NEON1",
+			"category": "Mods",
+			"image": "https://archive.org/download/npcimg_202301/NEON1.jpg",
+			"download": "https://ia804706.us.archive.org/17/items/npcmods/neon1.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 15,
+			"name": "Regular Human",
+			"category": "Mods",
+			"image": "https://archive.org/download/npcimg_202301/Regular%20Human.jpg",
+			"download": "https://ia904706.us.archive.org/17/items/npcmods/Regular%20Human.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 16,
+			"name": "Eren Yeager",
+			"category": "Mods",
+			"image": "https://archive.org/download/famousnpcimg/Eren%20Yeager.jpg",
+			"download": "https://ia904700.us.archive.org/21/items/famousnpcmod/Eren%20Yeager.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 17,
+			"name": "Goblin",
+			"category": "Mods",
+			"image": "https://archive.org/download/famousnpcimg/Goblin.jpg",
+			"download": "https://ia904700.us.archive.org/21/items/famousnpcmod/Grinch.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 18,
+			"name": "Grinch",
+			"category": "Mods",
+			"image": "https://archive.org/download/famousnpcimg/Grinch.jpg",
+			"download": "https://ia904700.us.archive.org/21/items/famousnpcmod/Grinch.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 19,
+			"name": "Kars",
+			"category": "Mods",
+			"image": "https://archive.org/download/famousnpcimg/Kars.jpg",
+			"download": "https://ia904700.us.archive.org/21/items/famousnpcmod/Kars.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 20,
+			"name": "Mafia",
+			"category": "Mods",
+			"image": "https://archive.org/download/famousnpcimg/Mafia.jpg",
+			"download": "https://ia904700.us.archive.org/21/items/famousnpcmod/Mafia.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 21,
+			"name": "Man Chainsaw",
+			"category": "Mods",
+			"image": "https://archive.org/download/famousnpcimg/Man%20Chainsaw.jpg",
+			"download": "https://ia904700.us.archive.org/21/items/famousnpcmod/Man%20Chainsaw.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 22,
+			"name": "Melon axe and melon machine gun",
+			"category": "Mods",
+			"image": "https://archive.org/download/famousnpcimg/Melon%20axe%20and%20melon%20machine%20gun.jpg",
+			"download": "https://ia904700.us.archive.org/21/items/famousnpcmod/Melon%20axe%20and%20melon%20machine%20gun.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 23,
+			"name": "Pack on Laser",
+			"category": "Mods",
+			"image": "https://archive.org/download/famousnpcimg/Pack%20on%20Laser.jpg",
+			"download": "https://ia904700.us.archive.org/21/items/famousnpcmod/Pack%20on%20Laser.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 24,
+			"name": "Patrick Bateman",
+			"category": "Mods",
+			"image": "https://archive.org/download/famousnpcimg/Patrick%20Bateman.jpg",
+			"download": "https://ia904700.us.archive.org/21/items/famousnpcmod/Patrick%20Bateman.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 25,
+			"name": "Roronoa Zoro",
+			"category": "Mods",
+			"image": "https://archive.org/download/famousnpcimg/Roronoa%20Zoro.jpg",
+			"download": "https://ia904700.us.archive.org/21/items/famousnpcmod/Roronoa%20Zoro.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 26,
+			"name": "Shay Patrick",
+			"category": "Mods",
+			"image": "https://archive.org/download/famousnpcimg/Shay%20Patrick.jpg",
+			"download": "https://ia904700.us.archive.org/21/items/famousnpcmod/Shay%20Patrick.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 27,
+			"name": "Raiden",
+			"category": "Mods",
+			"image": "https://archive.org/download/mortalcombimg/Raiden.jpg",
+			"download": "https://ia904709.us.archive.org/26/items/mortalcombmods/Raiden.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 28,
+			"name": "Sektor",
+			"category": "Mods",
+			"image": "https://archive.org/download/mortalcombimg/Sektor.jpg",
+			"download": "https://ia904709.us.archive.org/26/items/mortalcombmods/sektor.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 29,
+			"name": "Baraka",
+			"category": "Mods",
+			"image": "https://archive.org/download/mortalcombimg/baraka.jpg",
+			"download": "https://ia904709.us.archive.org/26/items/mortalcombmods/BARAKA.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 30,
+			"name": "Jax",
+			"category": "Mods",
+			"image": "https://archive.org/download/mortalcombimg/jax.jpg",
+			"download": "https://ia904709.us.archive.org/26/items/mortalcombmods/JAX.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 31,
+			"name": "Kabal",
+			"category": "Mods",
+			"image": "https://archive.org/download/mortalcombimg/kabal.jpg",
+			"download": "https://ia904709.us.archive.org/26/items/mortalcombmods/KABAL.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 32,
+			"name": "Kano",
+			"category": "Mods",
+			"image": "https://archive.org/download/mortalcombimg/kano.jpg",
+			"download": "https://ia904709.us.archive.org/26/items/mortalcombmods/KANO.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 33,
+			"name": "NoobSaibot",
+			"category": "Mods",
+			"image": "https://archive.org/download/mortalcombimg/noobsaibot.jpg",
+			"download": "",
+			"description": "file:///android_asset/ueue.html"
+		}
+	]
 }
