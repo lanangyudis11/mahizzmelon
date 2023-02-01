@@ -1,158 +1,269 @@
 {
-  "Ads": [
-    {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"IRON",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-      "backup_ads_banner":"qwert12345",
-      "backup_ads_intertitial":"qwert12345",
-      "backup_ads_natives":"qwert12345",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
-      "switch_banner_natives":"1",
-      "on_off_native_listview":"1",
-      "interval_intertitial": 2,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
-  ],"Categories":
-  [
-    {
-    "category":"Mods"
-  },{
-    "category":"Other Mods"
-  }
-  
-  ],
-  "Mods":
-  [
-    {
-      "id":1,
-      "name":"BendyOri",
-      "category":"Mods",
-      "image":"https://archive.org/download/bendyssmod/BENDYORI.jpg",
-      "download":"https://archive.org/download/bendyssmod/BENDYORI.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":2,
-      "name":"BeastBendys",
-      "category":"Mods",
-      "image":"https://archive.org/download/bendyssmod/BEASTBENDY.jpg",
-      "download":"https://ia904704.us.archive.org/29/items/bendyssmod/BEASTBENDY.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":3,
-      "name":"Blossom",
-      "category":"Mods",
-      "image":"https://archive.org/download/bendyssmod/BLOSSOM.jpg",
-      "download":"https://ia904704.us.archive.org/29/items/bendyssmod/BLOSSOM.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":4,
-      "name":"Inkdemon",
-      "category":"Mods",
-      "image":"https://archive.org/download/bendyssmod/Ink%20Demon.jpg",
-      "download":"https://ia904704.us.archive.org/29/items/bendyssmod/Ink%20Demon.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":5,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":6,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":7,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":8,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":9,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":10,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":11,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":12,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":13,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":14,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":15,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    }
-	 ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "IRON",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"backup_ads_banner": "qwert12345",
+			"backup_ads_intertitial": "qwert12345",
+			"backup_ads_natives": "qwert12345",
+			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+			"switch_banner_natives": "1",
+			"on_off_native_listview": "1",
+			"interval_intertitial": 2,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Categories": [
+		{
+			"category": "Mods"
+		},
+		{
+			"category": "Other Mods"
+		}
+	],
+	"Mods": [
+		{
+			"id": 1,
+			"name": "BendyOri",
+			"category": "Mods",
+			"image": "https://archive.org/download/bendyssmod/BENDYORI.jpg",
+			"download": "https://archive.org/download/bendyssmod/BENDYORI.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 2,
+			"name": "BeastBendys",
+			"category": "Mods",
+			"image": "https://archive.org/download/bendyssmod/BEASTBENDY.jpg",
+			"download": "https://ia904704.us.archive.org/29/items/bendyssmod/BEASTBENDY.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 3,
+			"name": "Blossom",
+			"category": "Mods",
+			"image": "https://archive.org/download/bendyssmod/BLOSSOM.jpg",
+			"download": "https://ia904704.us.archive.org/29/items/bendyssmod/BLOSSOM.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 4,
+			"name": "Inkdemon",
+			"category": "Mods",
+			"image": "https://archive.org/download/bendyssmod/Ink%20Demon.jpg",
+			"download": "https://ia904704.us.archive.org/29/items/bendyssmod/Ink%20Demon.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 5,
+			"name": "Nightmare",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Nightmare.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/nightmare.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 7,
+			"name": "Scream",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Scream.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/scream.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 8,
+			"name": "Smiler",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Smiler.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/smiler%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 9,
+			"name": "Stalker",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Stalker.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/stalker.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 10,
+			"name": "boxy",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/boxy.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/boxy%20boo%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 11,
+			"name": "crystalpurple",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/crystalpurple.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/crystalpurple.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 12,
+			"name": "granny",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/granny.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/granny.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 13,
+			"name": "huggy",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/huggy.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/huggy.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 14,
+			"name": "monsters",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/monsters.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/monsters%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 15,
+			"name": "pumpkin",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/pumpkin.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/pumpkin.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 16,
+			"name": "SCP ModPack v1",
+			"category": "Mods",
+			"image": "https://archive.org/download/4_20220901_202209/1.jpg",
+			"download": "https://ia601505.us.archive.org/32/items/scpm-v-1.0/scp_modpack_v1_by_lazybone.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 17,
+			"name": "SCP ModPack v2",
+			"category": "Mods",
+			"image": "https://ia801509.us.archive.org/32/items/4_20220901_202209/2.jpg",
+			"download": "https://ia801505.us.archive.org/32/items/scpm-v-1.0/Scp_modpack_v2_by_lazybone-1.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 18,
+			"name": "SCP096",
+			"category": "Mods",
+			"image": "https://ia801509.us.archive.org/32/items/4_20220901_202209/3.png",
+			"download": "https://ia801505.us.archive.org/32/items/scpm-v-1.0/SCP096.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 19,
+			"name": "SCP96 v2",
+			"category": "Mods",
+			"image": "https://ia601509.us.archive.org/32/items/4_20220901_202209/4.png",
+			"download": "https://ia601505.us.archive.org/32/items/scpm-v-1.0/SCP096_by_arara.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 20,
+			"name": "SCPM",
+			"category": "Other Mods",
+			"image": "https://ia801509.us.archive.org/32/items/4_20220901_202209/5.jpg",
+			"download": "https://ia801505.us.archive.org/32/items/scpm-v-1.0/SCPM_v1.0.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 21,
+			"name": "SCP Keycard",
+			"category": "Other Mods",
+			"image": "https://ia801509.us.archive.org/32/items/4_20220901_202209/6.jpg",
+			"download": "https://ia601505.us.archive.org/32/items/scpm-v-1.0/SCP_Keycards_By_Milk-1.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 22,
+			"name": "Baldi",
+			"category": "Other Mods",
+			"image": "https://ia601405.us.archive.org/27/items/7_20220901_20220901/7.jpg",
+			"download": "https://ia601404.us.archive.org/2/items/baldi-mod-v-1/Baldi_mod_V1.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 23,
+			"name": "Guard Card",
+			"category": "Mods",
+			"image": "https://archive.org/download/4_20220917_20220917_1509/1.jpg",
+			"download": "https://ia601500.us.archive.org/12/items/guard-s-card/GUARD%27S%20CARD.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 24,
+			"name": "PEOPLE",
+			"category": "Other Mods",
+			"image": "https://archive.org/download/4_20220917_20220917_1509/10.png",
+			"download": "https://ia601500.us.archive.org/12/items/guard-s-card/PEOPLE.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 25,
+			"name": "SCP 007",
+			"category": "Mods",
+			"image": "https://archive.org/download/4_20220917_20220917_1509/11.png",
+			"download": "https://ia601500.us.archive.org/12/items/guard-s-card/SCP%20-%20007.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 26,
+			"name": "SCP 017",
+			"category": "Mods",
+			"image": "https://archive.org/download/4_20220917_20220917_1509/2.png",
+			"download": "https://ia601500.us.archive.org/12/items/guard-s-card/SCP%20-%20017.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 27,
+			"name": "SCP 096",
+			"category": "Mods",
+			"image": "https://archive.org/download/4_20220917_20220917_1509/3.jpg",
+			"download": "https://ia601500.us.archive.org/12/items/guard-s-card/SCP%20-%20096.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 28,
+			"name": "SCP 131",
+			"category": "Mods",
+			"image": "https://archive.org/download/4_20220917_20220917_1509/4.png",
+			"download": "https://ia601500.us.archive.org/12/items/guard-s-card/SCP%20-%20131.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 29,
+			"name": "SCP 1471",
+			"category": "Mods",
+			"image": "https://archive.org/download/4_20220917_20220917_1509/5.png",
+			"download": "https://ia601500.us.archive.org/12/items/guard-s-card/SCP%20-%201471.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 30,
+			"name": "SCP 173",
+			"category": "Mods",
+			"image": "https://archive.org/download/4_20220917_20220917_1509/6.jpg",
+			"download": "https://ia601500.us.archive.org/12/items/guard-s-card/SCP%20-%20173.zip",
+			"description": "file:///android_asset/ueue.html"
+		}
+	]
 }
