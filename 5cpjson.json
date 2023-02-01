@@ -177,6 +177,129 @@
     "image":"https://archive.org/download/4_20220917_20220917_1509/9.jpg",
     "download":"https://ia601500.us.archive.org/12/items/guard-s-card/SCP%20-%20999.zip",
     "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":19,
+    "name":"SCP 173",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE/SCP%20173/SCP%20173.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE/SCP%20173/SCP%20173.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":20,
+    "name":"Scp Containment Breach",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE/Scp%20Containment%20Breach/Scp%20Containment%20Breach.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE/Scp%20Containment%20Breach/Scp%20Containment%20Breach.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":21,
+    "name":"SCP Himik",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE/SCP%20Himik/SCP%20Himik.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE/SCP%20Himik/SCP%20Himik.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":22,
+    "name":"Scp Last Day",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE/Scp%20Last%20Day/Scp%20Last%20Day.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE/Scp%20Last%20Day/Scp%20Last%20Day.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":23,
+    "name":"Scp-049-2",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE/Scp-049-2/Scp-049-2.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE/Scp-049-2/Scp-049-2.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":24,
+    "name":"SCP-173 Unity",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE/SCP-173%20Unity/SCP-173%20Unity.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE/SCP-173%20Unity/SCP-173%20Unity.zip",
+      "description":"file:///android_asset/ueue.html"
   }
+    
+    ,
+{
+	"id": 25,
+	"name": "3 Remake MTF Mod",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/3%20Remake%20MTF%20Mod/3%20Remake%20MTF%20Mod.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/3%20Remake%20MTF%20Mod/3%20Remake%20MTF%20Mod.zip",
+	"description": "file:///android_asset/ueue.html"
+}
+,
+{
+	"id": 26,
+	"name": "Mod for SCP 087-B",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/Mod%20for%20SCP%20087-B/Mod%20for%20SCP%20087-B.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/Mod%20for%20SCP%20087-B/Mod%20for%20SCP%20087-B.zip",
+	"description": "file:///android_asset/ueue.html"
+},
+{
+	"id": 27,
+	"name": "MTF From the SCP universe",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/MTF%20From%20the%20SCP%20universe/MTF%20From%20the%20SCP%20universe.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/MTF%20From%20the%20SCP%20universe/MTF%20From%20the%20SCP%20universe.zip",
+	"description": "file:///android_asset/ueue.html"
+},
+{
+	"id": 28,
+	"name": "O5 Council",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/O5%20Council/O5%20Council.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/O5%20Council/O5%20Council.zip",
+	"description": "file:///android_asset/ueue.html"
+},
+{
+	"id": 29,
+	"name": "SCP Chaos Insurgency",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Chaos%20Insurgency/SCP%20Chaos%20Insurgency.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Chaos%20Insurgency/Chaos%20Insurgency.zip",
+	"description": "file:///android_asset/ueue.html"
+},
+{
+	"id": 30,
+	"name": "SCP Class-D",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Class-D/SCP%20Class-D.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Class-D/SCP%20Class-D.zip",
+	"description": "file:///android_asset/ueue.html"
+},
+{
+	"id": 31,
+	"name": "SCP Ethics Committee",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Ethics%20Committee/SCP%20Ethics%20Committee.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Ethics%20Committee/SCP%20Ethics%20Committee.zip",
+	"description": "file:///android_asset/ueue.html"
+},
+{
+	"id": 32,
+	"name": "SCP Global Occult Coalition",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Global%20Occult%20Coalition/SCP%20Global%20Occult%20Coalition.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Global%20Occult%20Coalition/SCP%20Global%20Occult%20Coalition.zip",
+	"description": "file:///android_asset/ueue.html"
+},
+{
+	"id": 33,
+	"name": "SCP MTF Alpha 9",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Alpha%209/SCP%20MTF%20Alpha%209.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Alpha%209/SCP%20MTF%20Alpha%209.zip",
+	"description": "file:///android_asset/ueue.html"
+}
 	 ]
 }
