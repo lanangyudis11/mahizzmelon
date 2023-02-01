@@ -1,158 +1,269 @@
 {
-  "Ads": [
-    {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"IRON",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-      "backup_ads_banner":"qwert12345",
-      "backup_ads_intertitial":"qwert12345",
-      "backup_ads_natives":"qwert12345",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
-      "switch_banner_natives":"1",
-      "on_off_native_listview":"1",
-      "interval_intertitial": 2,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
-  ],"Categories":
-  [
-    {
-    "category":"Mods"
-  },{
-    "category":"Other Mods"
-  }
-  
-  ],
-  "Mods":
-  [
-    {
-      "id":1,
-      "name":"Buildings",
-      "category":"Mods",
-      "image":"https://archive.org/download/Lightsabersmod/building.jpg",
-      "download":"https://ia904703.us.archive.org/10/items/Lightsabersmod/buildings.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":2,
-      "name":"lightsabers",
-      "category":"Mods",
-      "image":"https://archive.org/download/Lightsabersmod/Lightsabers.jpg",
-      "download":"https://ia904703.us.archive.org/10/items/Lightsabersmod/Lightsabers.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":3,
-      "name":"starwor",
-      "category":"Mods",
-      "image":"https://archive.org/download/Lightsabersmod/starw.jpg",
-      "download":"https://ia904703.us.archive.org/10/items/Lightsabersmod/starw.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":4,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":5,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":6,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":7,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":8,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":9,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":10,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":11,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":12,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":13,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":14,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":15,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    }
-	 ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "IRON",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"backup_ads_banner": "qwert12345",
+			"backup_ads_intertitial": "qwert12345",
+			"backup_ads_natives": "qwert12345",
+			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+			"switch_banner_natives": "1",
+			"on_off_native_listview": "1",
+			"interval_intertitial": 2,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Categories": [
+		{
+			"category": "Mods"
+		},
+		{
+			"category": "Other Mods"
+		}
+	],
+	"Mods": [
+		{
+			"id": 1,
+			"name": "Buildings",
+			"category": "Mods",
+			"image": "https://archive.org/download/Lightsabersmod/building.jpg",
+			"download": "https://ia904703.us.archive.org/10/items/Lightsabersmod/buildings.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 2,
+			"name": "lightsabers",
+			"category": "Mods",
+			"image": "https://archive.org/download/Lightsabersmod/Lightsabers.jpg",
+			"download": "https://ia904703.us.archive.org/10/items/Lightsabersmod/Lightsabers.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 3,
+			"name": "starwor",
+			"category": "Mods",
+			"image": "https://archive.org/download/Lightsabersmod/starw.jpg",
+			"download": "https://ia904703.us.archive.org/10/items/Lightsabersmod/starw.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 4,
+			"name": "Pack to Vietnam1",
+			"category": "Mods",
+			"image": "https://archive.org/download/warimg/Pack%20to%20Vietnam1.jpg",
+			"download": "https://ia904704.us.archive.org/8/items/warmods/Pack%20to%20Vietnam.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 6,
+			"name": "Robo pack",
+			"category": "Mods",
+			"image": "https://archive.org/download/warimg/Robo%20pack.jpg",
+			"download": "https://ia804704.us.archive.org/8/items/warmods/robo_pack.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 7,
+			"name": "Shadow fight",
+			"category": "Mods",
+			"image": "https://archive.org/download/warimg/Shadow%20fight.jpg",
+			"download": "https://ia804704.us.archive.org/8/items/warmods/shadow_fight_2.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 8,
+			"name": "Star Wars",
+			"category": "Mods",
+			"image": "https://archive.org/download/warimg/Star%20Wars.jpg",
+			"download": "https://ia904704.us.archive.org/8/items/warmods/star_wars.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 9,
+			"name": "USSR",
+			"category": "Mods",
+			"image": "https://archive.org/download/warimg/USSR.jpg",
+			"download": "https://ia904704.us.archive.org/8/items/warmods/USSR.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 10,
+			"name": "Vietnam War",
+			"category": "Mods",
+			"image": "https://archive.org/download/warimg/Vietnam%20War.jpg",
+			"download": "https://ia904704.us.archive.org/8/items/warmods/Vietnam%20War.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 11,
+			"name": "War Corn",
+			"category": "Mods",
+			"image": "https://archive.org/download/warimg/War%20Corn.jpg",
+			"download": "https://ia904704.us.archive.org/8/items/warmods/War%20Corn%20Pak.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 12,
+			"name": "WenDWorld",
+			"category": "Mods",
+			"image": "https://archive.org/download/warimg/WenDWorld.jpg",
+			"download": "https://ia904704.us.archive.org/8/items/warmods/WenDWorld.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 13,
+			"name": "Zombie apocalypse",
+			"category": "Mods",
+			"image": "https://archive.org/download/warimg/Zombie%20apocalypse.jpg",
+			"download": "https://ia904704.us.archive.org/8/items/warmods/Zombie%20apocalypse.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 14,
+			"name": "knightly paraphernalia",
+			"category": "Mods",
+			"image": "https://archive.org/download/warimg/knightly%20paraphernalia.jpg",
+			"download": "https://ia904704.us.archive.org/8/items/warmods/knightly%20paraphernalia.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 15,
+			"name": "legendary four",
+			"category": "Mods",
+			"image": "https://archive.org/download/warimg/legendary%20four.jpg",
+			"download": "https://ia904704.us.archive.org/8/items/warmods/legendary%20four.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 16,
+			"name": "Abrams",
+			"category": "Mods",
+			"image": "https://archive.org/download/warvehicleimg/Abrams.jpg",
+			"download": "https://ia904706.us.archive.org/35/items/warvehiclemods/Abrams.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 17,
+			"name": "Aircraft b17",
+			"category": "Mods",
+			"image": "https://archive.org/download/warvehicleimg/AIRCRAFT%20B17.jpg",
+			"download": "https://ia904706.us.archive.org/35/items/warvehiclemods/AIRCRAFTB17%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 18,
+			"name": "B29",
+			"category": "Mods",
+			"image": "https://archive.org/download/warvehicleimg/B29.jpg",
+			"download": "https://ia904706.us.archive.org/35/items/warvehiclemods/B29%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 19,
+			"name": "Churcill2",
+			"category": "Mods",
+			"image": "https://archive.org/download/warvehicleimg/Churchill%202.jpg",
+			"download": "https://ia904706.us.archive.org/35/items/warvehiclemods/Churchill%202.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 20,
+			"name": "Douglass",
+			"category": "Mods",
+			"image": "https://archive.org/download/warvehicleimg/Douglas.jpg",
+			"download": "https://ia904706.us.archive.org/35/items/warvehiclemods/Douglas%20SBD%20Dauntles%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 21,
+			"name": "Eurocopter",
+			"category": "Mods",
+			"image": "https://archive.org/download/warvehicleimg/Eurocopter.jpg",
+			"download": "https://ia904706.us.archive.org/35/items/warvehiclemods/eurocopter%20as35o%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 22,
+			"name": "F22",
+			"category": "Mods",
+			"image": "https://archive.org/download/warvehicleimg/F22.jpg",
+			"download": "https://ia904706.us.archive.org/35/items/warvehiclemods/F22.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 23,
+			"name": "Farman",
+			"category": "Mods",
+			"image": "https://archive.org/download/warvehicleimg/Farman.jpg",
+			"download": "https://ia904706.us.archive.org/35/items/warvehiclemods/farman%20f222.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 24,
+			"name": "Fv4005",
+			"category": "Mods",
+			"image": "https://archive.org/download/warvehicleimg/Fv4005.jpg",
+			"download": "https://ia904706.us.archive.org/35/items/warvehiclemods/Fv4005.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 25,
+			"name": "i16",
+			"category": "Mods",
+			"image": "https://archive.org/download/warvehicleimg/I-16.jpg",
+			"download": "https://ia904706.us.archive.org/35/items/warvehiclemods/i%20%2016%20p%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 26,
+			"name": "Cyclops",
+			"category": "Mods",
+			"image": "https://archive.org/download/Aliensimg/Cyclops.jpg",
+			"download": "https://ia804705.us.archive.org/28/items/aliensmods/Cyclops.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 27,
+			"name": "DEMON",
+			"category": "Mods",
+			"image": "https://archive.org/download/Aliensimg/DEMON.jpg",
+			"download": "https://ia904705.us.archive.org/28/items/aliensmods/demon.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 28,
+			"name": "Dc-1",
+			"category": "Mods",
+			"image": "https://archive.org/download/Aliensimg/Dc-1.jpg",
+			"download": "https://ia804705.us.archive.org/28/items/aliensmods/Dc-1.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 29,
+			"name": "Decapitated",
+			"category": "Mods",
+			"image": "https://archive.org/download/Aliensimg/Decapitated.jpg",
+			"download": "https://ia804705.us.archive.org/28/items/aliensmods/Decapitated.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 30,
+			"name": "Goblin",
+			"category": "Mods",
+			"image": "https://archive.org/download/Aliensimg/Goblin.jpg",
+			"download": "https://ia804705.us.archive.org/28/items/aliensmods/goblin.zip",
+			"description": "file:///android_asset/ueue.html"
+		}
+	]
 }
