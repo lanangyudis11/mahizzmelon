@@ -99,58 +99,178 @@
 		},
 		{
 			"id": 9,
-			"name": "",
+			"name": "bloomberg",
 			"category": "Mods",
-			"image": "",
-			"download": "",
+			"image": "https://archive.org/download/zombieimg_202301/Screenshot_1.jpg",
+			"download": "https://ia904704.us.archive.org/12/items/zombiemods/bloomberg.zip",
 			"description": "file:///android_asset/ueue.html"
 		},
 		{
 			"id": 10,
-			"name": "",
+			"name": "Werewolf",
 			"category": "Mods",
-			"image": "",
-			"download": "",
+			"image": "https://archive.org/download/zombieimg_202301/Werewolf.jpg",
+			"download": "https://ia804704.us.archive.org/12/items/zombiemods/Werewolf.zip",
 			"description": "file:///android_asset/ueue.html"
 		},
 		{
 			"id": 11,
-			"name": "",
+			"name": "Zombie mark 3",
 			"category": "Mods",
-			"image": "",
-			"download": "",
+			"image": "https://archive.org/download/zombieimg_202301/Zombie%20mark%203.jpg",
+			"download": "https://ia904704.us.archive.org/12/items/zombiemods/Zombie%20mark%203%20.zip",
 			"description": "file:///android_asset/ueue.html"
 		},
 		{
 			"id": 12,
-			"name": "",
+			"name": "Zombie melon",
 			"category": "Mods",
-			"image": "",
-			"download": "",
+			"image": "https://archive.org/download/zombieimg_202301/Zombie%20melon.jpg",
+			"download": "https://ia804704.us.archive.org/12/items/zombiemods/Zombie%20melon.zip",
 			"description": "file:///android_asset/ueue.html"
 		},
 		{
 			"id": 13,
-			"name": "",
+			"name": "Backstage Monster",
 			"category": "Mods",
-			"image": "",
-			"download": "",
+			"image": "https://archive.org/download/monstersimg/Backstage%20Monster.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/Backstage%20Monster.zip",
 			"description": "file:///android_asset/ueue.html"
 		},
 		{
 			"id": 14,
-			"name": "",
+			"name": "Bone Monster",
 			"category": "Mods",
-			"image": "",
-			"download": "",
+			"image": "https://archive.org/download/monstersimg/Bone%20Monster.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/Bones.zip",
 			"description": "file:///android_asset/ueue.html"
 		},
 		{
 			"id": 15,
-			"name": "",
+			"name": "Infected",
 			"category": "Mods",
-			"image": "",
-			"download": "",
+			"image": "https://archive.org/download/monstersimg/Infected.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/Infected.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 16,
+			"name": "Jason",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Jason.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/Jason.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 17,
+			"name": "Nightmare",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Nightmare.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/nightmare.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 18,
+			"name": "Reptiloid",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Reptiloid.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/reptiloid.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 19,
+			"name": "Scream",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Scream.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/scream.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 20,
+			"name": "Smiler",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Smiler.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/smiler%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 21,
+			"name": "Stalker",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Stalker.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/stalker.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 22,
+			"name": "boxy",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/boxy.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/boxy%20boo%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 23,
+			"name": "crystalpurple",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/crystalpurple.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/crystalpurple.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 24,
+			"name": "granny",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/granny.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/granny.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 25,
+			"name": "huggy",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/huggy.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/huggy.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 26,
+			"name": "monsters",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/monsters.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/monsters%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 27,
+			"name": "pumpkin",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/pumpkin.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/pumpkin.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 28,
+			"name": "SCP ModPack v1",
+			"category": "Mods",
+			"image": "https://archive.org/download/4_20220901_202209/1.jpg",
+			"download": "https://ia601505.us.archive.org/32/items/scpm-v-1.0/scp_modpack_v1_by_lazybone.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 29,
+			"name": "SCP ModPack v2",
+			"category": "Mods",
+			"image": "https://ia801509.us.archive.org/32/items/4_20220901_202209/2.jpg",
+			"download": "https://ia801505.us.archive.org/32/items/scpm-v-1.0/Scp_modpack_v2_by_lazybone-1.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 30,
+			"name": "SCP096",
+			"category": "Mods",
+			"image": "https://ia801509.us.archive.org/32/items/4_20220901_202209/3.png",
+			"download": "https://ia801505.us.archive.org/32/items/scpm-v-1.0/SCP096.zip",
 			"description": "file:///android_asset/ueue.html"
 		}
 	]
